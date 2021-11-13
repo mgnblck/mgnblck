@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mgnblck
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m James Cathedral
+- 👀 I’m interested in learning technologies, working on open source stuff and creating new things. 
+- 🌱 I’m currently learning web development!
+
+I'm a young developer learning things! One day, I'll be known for many great things! 
 
 <!---
 mgnblck/mgnblck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
